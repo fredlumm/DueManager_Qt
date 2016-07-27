@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/myimage">
+        <file>clock_flat_icon_six_revisions.png</file>
+        <file>emblem_relax.png</file>
+        <file>due1.png</file>
+        <file>img3.png</file>
+        <file>img1.png</file>
+        <file>add.png</file>
+        <file>config.png</file>
+        <file>delete.png</file>
+        <file>search.png</file>
+        <file>background1.jpg</file>
+        <file>background2.jpg</file>
+        <file>background3.jpg</file>
+        <file>back1.jpg</file>
+        <file>background4.jpg</file>
+        <file>back2.jpg</file>
+        <file>back3.jpg</file>
+        <file>event.png</file>
+        <file>intro1.png</file>
+        <file>intro2.png</file>
+        <file>intro3.png</file>
+        <file>intro4.png</file>
+        <file>intro5.png</file>
+        <file>back4.jpg</file>
+        <file>yes.png</file>
+    </qresource>
+</RCC>
